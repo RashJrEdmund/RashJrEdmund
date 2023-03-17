@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
   </div>
   
-  <h1> ### :fire: :writing_hand: I Code with : </h1>
+  <h1> :fire: :writing_hand: I Code with : </h1>
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -50,20 +50,20 @@ Here are some ideas to get you started:
   <!-- my stats -->
   
   
-  ### :fire: My Stats :
+  <h1> :fire: My Stats : </h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats)
   
   
   <!-- top most used language -->
   
-  <h1> ### :fire: My Most used Language : </h1>
+  <h1>:fire: My Most used Language : </h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <!-- my contacts below -->
   
-  <h1> ### :writing_hand: Contact me: </h1>
+  <h1>:writing_hand: Contact me: </h1>
  
   <div id="badges" style="margin: 2rem 0;">
     <a href="https://www.linkedin.com/in/orashus-edmund-82a040212/" target="_blank">

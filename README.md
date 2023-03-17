@@ -65,6 +65,10 @@ Here are some ideas to get you started:
   
   <h1>:writing_hand: Contact me: </h1>
  
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+  
   <div id="badges" style="margin: 2rem 0;">
     <a href="https://www.linkedin.com/in/orashus-edmund-82a040212/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

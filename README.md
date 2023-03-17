@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  <!-- the contacts are here -->
+  <!-- my contacts below -->
   
   ### :writing_hand: Contact me:
  

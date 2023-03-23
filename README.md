@@ -26,41 +26,121 @@ Here are some ideas to get you started:
       i'm Rash
   </h1>
   
+<div align="left">
+  ### Programming Skills
+
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="140px" align="center">
+          <span>Javascript</span><br><br><br>
+          <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+        </td>
+         <td width="140px" align="center">
+          <span>Git</span><br><br><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+    ### Frontend Skills
+
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="140px" align="center">
+          <span>React</span><br><br><br>
+          <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+        </td>
+        <td width="140px" align="center">
+          <span>HTML5</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        </td>
+        <td width="140px" align="center">
+          <span><strong>CSS3</strong>
+          </span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  
+  
+<div align="left">
+    ### Backend Skills
+
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="140px" align="center">
+          <span>Node js</span><br><br><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
+        </td>
+        <td width="140px" align="center">
+          <span>MySQL</span><br><br><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  
+ <h1> :fire: :writing_hand: Currently learning : </h1>
+  
   <div align="left">
-- 🔭 I’m currently working on ... an api for drinks<br />
-- 🌱 I’m currently learning ... Node.js  <br />
-- 👯 I’m looking to collaborate on ... a full Stack application <br />
-- 🤔 I’m looking for help with ... my overall back_end skills <br />
-- 💬 Ask me about ...   <br />
-- 📫 How to reach me: ...
+    <table>      
+      <tbody>
+        <tr valign="top">
+          <td width="140px" align="center">
+            <span>React Native</span><br><br><br>
+            <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+          </td>
+          <td width="140px" align="center">
+            <span>NextJS</span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
   
-  <h1> :fire: :writing_hand: I Code with : </h1>
+  <h1> :fire: :writing_hand: Will like to learn : </h1>
   
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div>
-  
+  <div align="left">
+    <table>
+      <tbody>
+        <tr valign="top">
+          <td width="140px" align="center">
+            <span><strong>Electron</strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
+          </td>
+          <td width="140px" align="center">
+            <span><strong>Tailwind</strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+          </td>
+          <td width="140px" align="center">
+            <span>Markdown</span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>  
   <!-- my stats -->
   
-  
-  <h1> :fire: My Stats : </h1>
+  ## :fire: My Stats 📈
+ <div align="left">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  
-  <!-- top most used language -->
-  
-  <h1>:fire: My Most used Language : </h1>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+  [![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+  </div>
   <!-- my contacts below -->
   
   <h1>:writing_hand: Contact me: </h1>

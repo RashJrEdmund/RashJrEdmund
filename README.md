@@ -98,6 +98,11 @@ Here are some ideas to get you started:
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
           </td>
           <td width="140px" align="center">
+            <span><strong>Tailwind</strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+          </td>
+          <td width="140px" align="center">
             <span>NextJS</span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
           </td>
@@ -116,11 +121,6 @@ Here are some ideas to get you started:
             <span><strong>Electron</strong>
             </span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
-          </td>
-          <td width="140px" align="center">
-            <span><strong>Tailwind</strong>
-            </span><br><br><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
           </td>
           <td width="140px" align="center">
             <span>Markdown</span><br><br><br>

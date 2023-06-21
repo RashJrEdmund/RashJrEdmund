@@ -65,10 +65,7 @@ Here are some ideas to get you started:
       </tr>
     </tbody>
   </table>
-</div>
   
-  
-<div align="left">
     ### Backend Skills
 
   <table>
@@ -135,7 +132,7 @@ Here are some ideas to get you started:
   ## :fire: My Stats 📈
  <div align="left">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats) -->
   
 
   [![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

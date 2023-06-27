@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </h1>
   
 <div align="left">
-  ### Programming Skills
+  <h1>Programming Skills</h1>
 
   <table>
     <tbody>

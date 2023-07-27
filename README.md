@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     </tbody>
   </table>
 
-    ### Frontend Skills
+  <h3>Frontend Skills</h3>
 
   <table>
     <tbody>

@@ -28,119 +28,69 @@ Here are some ideas to get you started:
   
 <div align="left">
   <h1>Programming Skills</h1>
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  <table>
-    <tbody>
-      <tr valign="top">
-        <td width="140" height="60" align="center">
-          <span>Javascript</span><br><br><br>
-          <img height="60x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
-        </td>
-         <td width="140" height="60" align="center">
-          <span>Git</span><br><br><br>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  ## Frontend Skills
 
-  <h3>Frontend Skills</h3>
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  
+   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <table>
-    <tbody>
-      <tr valign="top">
-        <td width="140px" align="center">
-          <span>React</span><br><br><br>
-          <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-        </td>
-        <td width="140px" align="center">
-          <span>HTML5</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-        </td>
-        <td width="140px" align="center">
-          <span><strong>CSS3</strong>
-          </span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  
-    ### Backend Skills
 
-  <table>
-    <tbody>
-      <tr valign="top">
-        <td width="140px" align="center">
-          <span>Node js</span><br><br><br>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
-        </td>
-        <td width="140px" align="center">
-          <span>MySQL</span><br><br><br>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+## Backend Skills
+
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+## Database
+
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+## :fire: :writing_hand: Currently learning :
   
- <h1> :fire: :writing_hand: Currently learning : </h1>
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   
-  <div align="left">
-    <table>      
-      <tbody>
-        <tr valign="top">
-          <td width="140px" align="center">
-            <span>React Native</span><br><br><br>
-            <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-          </td>
-          <td width="140px" align="center">
-            <span><strong>Tailwind</strong>
-            </span><br><br><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-          </td>
-          <td width="140px" align="center">
-            <span>NextJS</span><br><br><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+ ## :fire: :writing_hand: Will like to learn :
   
-  <h1> :fire: :writing_hand: Will like to learn : </h1>
-  
-  <div align="left">
-    <table>
-      <tbody>
-        <tr valign="top">
-          <td width="140px" align="center">
-            <span><strong>Electron</strong>
-            </span><br><br><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
-          </td>
-          <td width="140px" align="center">
-            <span>Markdown</span><br><br><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>  
+   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
+   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   <!-- my stats -->
   
-  ## :fire: My Stats 📈
- <div align="left">
-  
+## :fire: My Stats 📈  
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats) -->
   
 
   [![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-  </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
   <!-- my contacts below -->
   
-  <h1>:writing_hand: Contact me: </h1>
+## :writing_hand: My Socials :
  
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

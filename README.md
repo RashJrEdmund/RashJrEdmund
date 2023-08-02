@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   
   <br /><br />
   
-## Database
+## Databases
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,21 +65,21 @@ Here are some ideas to get you started:
   
   <br /><br />
   
-## OSs i've use:
+## OSs I've used
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
   <br /><br />
   
-## :fire: :writing_hand: Currently learning :
+## :fire: :writing_hand: Currently learning
   
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
  
   <br /><br />
   
-## :fire: :writing_hand: Will like to learn :
+## :fire: :writing_hand: Will like to learn
   
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
   <br /><br />
   
 <!-- my contacts below -->
-## :writing_hand: Find me on:
+## :writing_hand: Find me on
    
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/orashus)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orashus-edmund-82a040212/)

@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
   
-  <br /><br />
+  <br />
   
 ## Databases
 
@@ -63,21 +63,21 @@ Here are some ideas to get you started:
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   
-  <br /><br />
+  <br />
   
 ## OSs I've used
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
-  <br /><br />
+  <br />
   
 ## :fire: :writing_hand: Currently learning
   
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
  
-  <br /><br />
+  <br />
   
 ## :fire: :writing_hand: Will like to learn
   
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
  
-  <br /><br />
+  <br />
   
   <!-- my stats -->
 ## :fire: My Stats 📈 
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
   [![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
-  <br /><br />
+  <br />
   
 <!-- my contacts below -->
 ## :writing_hand: Find me on

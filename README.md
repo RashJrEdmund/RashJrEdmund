@@ -18,9 +18,9 @@ link and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
 <div id="header" align="center">  
   <!--here's the hello text below it are the languages links-->
   
-  <div align="center">
+  <!-- <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="350"/>
-  </div>
+  </div> -->
   
   <h1>
     hey there

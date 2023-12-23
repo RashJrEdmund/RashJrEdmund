@@ -25,7 +25,7 @@ link and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      I'm Rash, A Full-Stack Web Developer
+      I'm Rash, a Full-Stack web developer
   </h1>
   
 <div align="left">

@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 link to bagdes: https://github.com/Ileriayo/markdown-badges
 link and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
+link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 -->
 
 <div id="header" align="center">  

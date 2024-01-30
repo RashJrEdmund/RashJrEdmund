@@ -16,19 +16,20 @@ link and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
 link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 -->
 
-<div id="header" align="center">  
+<div id="header" align="center" style="display: flex;">  
   <!--here's the hello text below it are the languages links-->
   
   <!-- <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="350"/>
   </div> -->
+
   
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       I'm Rash, a full-stack web developer
   </h1>
-  
+
 <div align="left">
   <h1>Programming Skills</h1>
   
@@ -131,6 +132,9 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   
   [![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://app.daily.dev/orashus">
+    <img src="https://api.daily.dev/devcards/3db577c08fb44a898adacb77b59f123c.png?r=c9x" width="300" alt="Rash Edmund's Dev Card"/>
+  </a>
  
   <br />
   
@@ -146,12 +150,9 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Orashus)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/RashJrEdmund)
 
-## Buy me a coffee
-
- ![Coffe](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+</div>
 </div>

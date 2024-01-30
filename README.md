@@ -89,8 +89,9 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
  
   <br />
   
+<!--
 ## :fire: :writing_hand: Will like to learn
-   
+
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -122,9 +123,10 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 
    ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
     
   <br />
+-->
   
   <!-- my stats -->
 ## :fire: My Stats 📈 

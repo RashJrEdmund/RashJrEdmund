@@ -131,11 +131,21 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   
   [![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- 
   <a href="https://app.daily.dev/orashus">
     <img src="https://api.daily.dev/devcards/3db577c08fb44a898adacb77b59f123c.png?r=c9x" width="300" alt="Rash Edmund's Dev Card"/>
   </a>
+  -->
  
   <br />
+
+## 📜 Certifications
+- 🏆 JavaScript (Basic) | Hackerrank | 17 June 2023
+- 🏆 JavaScript (Intermediate) | Hackerrank | 06 Oct 2023
+
+## 💼 Work Experience
+- FrontEnd developer: AftaWallet
+- FullStack developer: Azen-Enterprise
   
 <!-- my contacts below -->
 ## :writing_hand: Find me on

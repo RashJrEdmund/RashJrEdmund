@@ -144,8 +144,8 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 - 🏆 JavaScript (Intermediate) | Hackerrank | 06 Oct 2023
 
 ## 💼 Work Experience
-- FrontEnd developer: AftaWallet
 - FullStack developer: Azen-Enterprise
+- FrontEnd developer: AftaWallet
   
 <!-- my contacts below -->
 ## :writing_hand: Find me on

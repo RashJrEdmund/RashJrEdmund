@@ -39,7 +39,7 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 
 
 <div align="left">
-  <h1>Programming Skills</h1>
+  <h3>Programming Skills</h1>
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,7 +48,7 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 
   <br />
   
-## Frontend Skills
+### Frontend Skills
 
    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -60,7 +60,7 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   
   <br />
   
-## Backend Skills
+### Backend Skills
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -74,7 +74,7 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   <br />
   
-## Databases
+### Databases
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -82,14 +82,14 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   
   <br />
   
-## OSs I've used
+### OSs I've used
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
   <br />
   
-## :fire: :writing_hand: Currently learning
+### :fire: :writing_hand: Currently learning
 
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -98,7 +98,7 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
   <br />
   
 <!--
-## :fire: :writing_hand: Will like to learn
+### :fire: :writing_hand: Will like to learn
 
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -136,7 +136,7 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 -->
   
   <!-- my stats -->
-## :fire: My Stats 📈 
+### :fire: My Stats 📈 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats) -->
   
   ![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true)
@@ -152,20 +152,20 @@ link to github unwrap animation: https://githubunwrapped.com/rashjredmund
  
   <br />
 
-## 📜 Certifications
+### 📜 Certifications
 - 🏆 JavaScript (Basic) | Hackerrank | 17 June 2023
 - 🏆 JavaScript (Intermediate) | Hackerrank | 06 Oct 2023
 
-## 💼 Work Experience
+### 💼 Work Experience
 - FullStack developer: Azen-Enterprise
 - FrontEnd developer: AftaWallet
 
-## 🙃 Hobbies
-- 🏀 Basket ball
+### 🙃 Hobbies
+- 🏀 Basketball
 - 🎮 Video Games
 
 <!-- my contacts below -->
-## :writing_hand: Find me on
+### :writing_hand: Find me on
    
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/orashus)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orashus-edmund-82a040212/)

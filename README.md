@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 link to bagdes: https://github.com/Ileriayo/markdown-badges
 link and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
 link to github unwrap animation: https://githubunwrapped.com/rashjredmund
+lik to build github readme: https://www.profileme.dev/create-profile
 -->
 
 <div id="header" align="left" style="display: flex;">  

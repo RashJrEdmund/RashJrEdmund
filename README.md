@@ -31,6 +31,8 @@ lik to build github readme: https://www.profileme.dev/create-profile
     I'm Rash. Full stack developer. TypeScript Enthusiasts
 </h1>
 
+![profile views](https://komarev.com/ghpvc/?username=RashJrEdmund)
+
 <a href="https://www.github.com/RashJrEdmund" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/RashJrEdmund?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" />
 </a>

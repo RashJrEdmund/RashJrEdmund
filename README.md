@@ -142,7 +142,11 @@ lik to build github readme: https://www.profileme.dev/create-profile
   
   ![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+### :zap: :biohazard: Cool Projects
+
+- :1st_place_medal: [R-Cloud](https://r-cloud.vercel.app/). (cloud storage service provider)
+
    <!-- use this as altternate langauge display  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages) -->
 
   <!-- 

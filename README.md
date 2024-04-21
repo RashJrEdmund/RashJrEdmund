@@ -156,6 +156,10 @@ lik to build github readme: https://www.profileme.dev/create-profile
 
 - :1st_place_medal: [R-Cloud](https://r-cloud.vercel.app/). (cloud storage service provider)
 
+![r-cloud-logo-5144x144](https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/4f4e6136-eb3b-4f2a-a19b-aada94169475)
+
+
+
    <!-- use this as altternate langauge display  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages) -->
 
   <!-- 

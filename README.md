@@ -156,7 +156,9 @@ lik to build github readme: https://www.profileme.dev/create-profile
 
 - :1st_place_medal: [R-Cloud](https://r-cloud.vercel.app/). (cloud storage service provider)
 
-![r-cloud-logo-5144x144](https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/4f4e6136-eb3b-4f2a-a19b-aada94169475)
+<a href="https://r-cloud.vercel.app/" target="_blank">
+  <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/4f4e6136-eb3b-4f2a-a19b-aada94169475" alt="r cloud logo" />
+</a>
 
 
 

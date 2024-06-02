@@ -61,6 +61,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
    ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   
   <br />
   
@@ -96,7 +97,6 @@ lik to build github readme: https://www.profileme.dev/create-profile
   
 ### :fire: :writing_hand: Currently learning
 
-  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
@@ -160,6 +160,11 @@ lik to build github readme: https://www.profileme.dev/create-profile
   <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/4f4e6136-eb3b-4f2a-a19b-aada94169475" alt="r cloud logo" />
 </a>
 
+- :2nd_place_medal: [My-Portfolio](https://rash-edmund.vercel.app/). (Portfolio site to showcase my skills and abilities, so I can get hired, and paid to work 🙂)
+
+<a href="https://rash-edmund.vercel.app/" target="_blank">
+  <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/55bc0244-d4ad-4fe3-87b5-8d7b2b1d345b" alt="portfolio logo" height="130" width="130" />
+</a>
 
 
    <!-- use this as altternate langauge display  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages) -->
@@ -193,7 +198,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@orashusedmund)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rash_jr_edmund/)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Orashus)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/RashJrEdmund)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rash-edmund.vercel.app/)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

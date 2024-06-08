@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡⚡ Fun fact: ...
 link to bagdes: https://github.com/Ileriayo/markdown-badges
-link and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
+link to bagdes and ability to search: https://home.aveek.io/GitHub-Profile-Badges/
 link to github unwrap animation: https://githubunwrapped.com/rashjredmund
 lik to build github readme: https://www.profileme.dev/create-profile
 -->
@@ -97,6 +97,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
   
 ### :fire: :writing_hand: Currently learning
 
+  ![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
@@ -116,6 +117,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
 
    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
    ![Playwright](https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white)
+   ![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
 
    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)

@@ -187,6 +187,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
 ### 💼 Work Experience
 - FullStack developer: Azen-Enterprise
 - FrontEnd developer: AftaWallet
+- Front End Mentor | JS Mentor: Rebase Academy
 
 ### 🙃 Hobbies
 - 🏀 Basketball

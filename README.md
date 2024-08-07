@@ -25,24 +25,19 @@ lik to build github readme: https://www.profileme.dev/create-profile
   </div> -->
 
   
-<h1>
+<h2 align="center">
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Rash. Full stack developer. TypeScript Enthusiasts
-</h1>
+    I'm Rash. A full-stack developer. A (TypeScript | Python | Java | Rust) Enthusiasts
+</h2>
 
 ![profile views](https://komarev.com/ghpvc/?username=RashJrEdmund&style=flat-square&label=PROFILE+VIEWS)
-
-<a href="https://www.github.com/RashJrEdmund" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/RashJrEdmund?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" />
-</a>
-<a href="https://www.twitter.com/orashus" target="_blank" rel="noreferrer">
-   <img src="https://img.shields.io/twitter/follow/orashus?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"/>
-</a>
-
+[![github-followers](https://img.shields.io/github/followers/RashJrEdmund?logo=github&style=for-the-badge&color=22c55e&labelColor=000000)](https://github.com/rashjredmund)
+<!-- [![x-followers](https://img.shields.io/twitter/follow/orashus?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000)](https://x.com/orashus) -->
 
 <div align="left">
-  <h3>Programming Skills</h1>
+
+#### Programming Skills
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,9 +46,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-  <br />
-  
-### Frontend Skills
+#### Frontend Skills
 
    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -65,10 +58,8 @@ lik to build github readme: https://www.profileme.dev/create-profile
    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
    ![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
-  
-  <br />
-  
-### Backend Skills
+
+#### Backend Skills
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -77,37 +68,31 @@ lik to build github readme: https://www.profileme.dev/create-profile
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
+  ![PNPM](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
  	![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  <br />
-  
-### Databases
+
+#### Databases
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  <br />
-  
-### OSs I've used
+
+#### OSs I've used
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- 
-  <br />
-  
-### :fire: :writing_hand: Currently learning
+
+#### :fire: :writing_hand: Currently learning
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
- 
-  <br />
-  
+
 <!--
-### :fire: :writing_hand: Will like to learn
+#### :fire: :writing_hand: Will like to learn
 
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -155,24 +140,24 @@ lik to build github readme: https://www.profileme.dev/create-profile
 -->
   
   <!-- my stats -->
-### :fire: My Stats 📈 
+#### :fire: My Stats 📈 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RashJrEdmund&theme=dark&background=000000)](https://git.io/streak-stats) -->
   
   ![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=RashJrEdmund&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashJrEdmund&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-### :zap: :biohazard: Cool Projects
+#### :zap: :biohazard: Cool Projects
 
 - :1st_place_medal: [R-Cloud](https://r-cloud.vercel.app/). (cloud storage service provider)
 
 <a href="https://r-cloud.vercel.app/" target="_blank">
-  <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/4f4e6136-eb3b-4f2a-a19b-aada94169475" alt="r cloud logo" />
+  <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/4f4e6136-eb3b-4f2a-a19b-aada94169475" alt="r cloud logo" height="50" width="50" />
 </a>
 
 - :2nd_place_medal: [My-Portfolio](https://rash-edmund.vercel.app/). (Portfolio site to showcase my skills and abilities, so I can get hired, and paid to work 🙂)
 
 <a href="https://rash-edmund.vercel.app/" target="_blank">
-  <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/55bc0244-d4ad-4fe3-87b5-8d7b2b1d345b" alt="portfolio logo" height="130" width="130" />
+  <img src="https://github.com/RashJrEdmund/RashJrEdmund/assets/116172031/55bc0244-d4ad-4fe3-87b5-8d7b2b1d345b" alt="portfolio logo" height="50" width="50" />
 </a>
 
 
@@ -186,21 +171,21 @@ lik to build github readme: https://www.profileme.dev/create-profile
  
   <br />
 
-### 📜 Certifications
+#### 📜 Certifications
 - 🏆 JavaScript (Basic) | Hackerrank | 17 June 2023
 - 🏆 JavaScript (Intermediate) | Hackerrank | 06 Oct 2023
 
-### 💼 Work Experience
+#### 💼 Work Experience
 - FullStack developer: Azen-Enterprise
 - FrontEnd developer: AftaWallet
-- Front End Mentor | JS Mentor: Rebase Academy
+- Front End Mentor | HTML | CSS | JS Mentor: Rebase Academy
 
-### 🙃 Hobbies
+#### 🙃 Hobbies
 - 🏀 Basketball
 - 🎮 Video Games
 
 <!-- my contacts below -->
-### :writing_hand: Find me on
+#### :writing_hand: Find me on
    
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/orashus)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orashus/)

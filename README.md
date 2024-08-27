@@ -28,7 +28,7 @@ lik to build github readme: https://www.profileme.dev/create-profile
 <h2 align="center">
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Rash. A full-stack developer. A (TypeScript | Python | Java | Rust) Enthusiasts
+    I'm Rash. A full-stack developer: Rust Enthusiasts
 </h2>
 
 ![profile views](https://komarev.com/ghpvc/?username=RashJrEdmund&style=flat-square&label=PROFILE+VIEWS)

@@ -44,7 +44,9 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,prisma,firebase,git,github,mongodb,postgres,mysql,redux,docker,kafka&perline=14" />
 
-  <img src="https://skillicons.dev/icons?i=jest,cypress&perline=14" />
+  <br />
+
+  <img src="https://skillicons.dev/icons?i=fastapi,grafana,jest,cypress&perline=14" />
 </div>
 
 <div align="center">

@@ -46,7 +46,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
   <br />
 
-  <img src="https://skillicons.dev/icons?i=fastapi,grafana,jest,cypress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=redis,fastapi,grafana,jest,cypress&perline=14" />
 </div>
 
 <div align="center">

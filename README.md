@@ -40,7 +40,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
     My Tools and Tech stack 👨🏻‍💻
   </h3>
 
-  <img src="https://skillicons.dev/icons?i=next,react,svelte,vue,tailwind,sass,emotion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=next,react,remix,svelte,vue,tailwind,sass,emotion&perline=14" />
 
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,prisma,firebase,git,github,mongodb,postgres,mysql,redux,docker,kafka&perline=14" />
 

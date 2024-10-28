@@ -16,6 +16,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 - 👯 I’m looking to collaborate on a reasonable **real world** project ...
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything **{js,ts,jsx,tsx,py,rs,java}**
+- ⚙️ Visit my Github Org [orashus](https://github.com/orashus)
 
 - 📫 How to reach me:
   - **<orashusedmund@gmail.com>**

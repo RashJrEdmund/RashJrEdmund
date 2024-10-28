@@ -41,13 +41,17 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
     My Tools and Tech stack 👨🏻‍💻
   </h3>
 
-  <img src="https://skillicons.dev/icons?i=next,react,remix,svelte,vue,tailwind,sass,emotion&perline=14" />
-
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,prisma,firebase,git,github,mongodb,postgres,mysql,redux,docker,kafka&perline=14" />
+  <img src="https://skillicons.dev/icons?i=next,react,remix,svelte,vue&perline=14" />
 
   <br />
 
-  <img src="https://skillicons.dev/icons?i=redis,fastapi,grafana,jest,cypress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,emotion,redux,netlify,vercel&perline=14" />
+
+  <br />
+
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,prisma,firebase,supabase,git,github,mongodb,postgres,mysql,sqlite,sequelize&perline=14" />
+
+  <img src="https://skillicons.dev/icons?i=docker,kafka,redis,nginx,fastapi,grafana,jest,cypress&perline=14" />
 </div>
 
 <div align="center">
@@ -55,7 +59,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
     ⚒️ Others ⚒️
   </h3>
 
-  <img src="https://skillicons.dev/icons?i=postman,pnpm,npm,yarn,figma,notion,ubuntu,neovim,vscode,idea,devto&perline=14" />
+  <img src="https://skillicons.dev/icons?i=postman,pnpm,npm,yarn,figma,notion,ubuntu,neovim,vscode,replit,idea,devto&perline=14" />
 </div>
 
 <div align="center">
